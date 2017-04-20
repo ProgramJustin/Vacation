@@ -1,0 +1,12 @@
+.jumbotron {
+  background-image: url("http://www3.hilton.com/resources/media/hi/SJCSVHF/en_US/img/shared/full_page_image_gallery/main/hf_boardwalk_25_1270x560_FitToBoxSmallDimension_Center.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  color: white;
+  text-align: center;
+  font-family: fantasy;
+}
+
+.jumbotron h3 {
+  font-size: 100px;
+}
