@@ -7,6 +7,15 @@
   font-family: fantasy;
 }
 
-.jumbotron h3 {
-  font-size: 100px;
+.pix {
+  list-style: none;
+  float: left;
+  height: auto;
+   width: auto;
+   max-width: 300px;
+   max-height: 300px;
+}
+
+ul h3 {
+  font-family: fantasy;
 }
